@@ -1,0 +1,5 @@
+Entering[1]: 33
+Entering[2]: 36
+Entering[3]: 27
+Entering[4]: 15
+Entering[5]: 43
