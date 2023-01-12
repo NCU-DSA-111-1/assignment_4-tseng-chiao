@@ -8,7 +8,7 @@ This is assignment 4
 ## Compile & Run
 
 * sh is for ubuntu command line (Bash)
-* if you are ios system, you need to have install openssl first to have crypto.h, sha.h library
+* if you are ios system, you need to install openssl first to have crypto.h, sha.h
 ```sh
 # Compile
 gcc src/blockchain.c src/hash.c inc/hash.h -o bin/blockchain -lcrypto
